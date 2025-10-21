@@ -71,6 +71,11 @@ public class Monster {
 
     }
 
+    public boolean dodge() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'dodge'");
+    }
+
 
  
 
