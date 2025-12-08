@@ -28,5 +28,4 @@ public class ArrayListTest {
         // 5. 判断是否为空（isEmpty()）
         System.out.println("是否为空：" + listCollection.isEmpty()); // false
     }
-    
 }
